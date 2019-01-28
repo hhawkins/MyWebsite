@@ -8,3 +8,7 @@ yarn.lock
 # Build directory
 /public
 .DS_Store
+
+# Personal Files
+/src/assets/images/old-assets
+/src/assets/images/my-pictures

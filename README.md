@@ -1,18 +1,5 @@
-# gatsby-starter-strata
+# My Website
 
-**This is a starter for Gatsby.js V2.**
+**This was build with Gatsby.js V2.**
 
-**The older V1 version of this starter can be found on the v1 branch**
-
-Gatsby starter based on the Strata site template, designed by [HTML5 UP](https://html5up.net/strata). Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
-
-## Preview
-
-http://gatsby-strata.surge.sh/
-
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-starter-strata https://github.com/ChangoMan/gatsby-starter-strata`
-
-Run `gatsby develop` in the terminal to start.
+I wanted to rebuild my website without using wordpress and I came across Gatsby. I've been using it ever since and I love the way it's turned out. Check it out! [hamzahawkins.com](https://www.hamzahawkins.com)

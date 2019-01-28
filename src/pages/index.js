@@ -89,7 +89,7 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h1>Hi, my name is Hamza. I'm an <strong>entrepreneur</strong>, <strong>programmer</strong>, and <strong>fitness enthusiast</strong>.</h1>
+                            <h1>Hi, my name is Hamza. I'm an <strong>entrepreneur</strong>, <strong>coder</strong>, and <strong>fitness enthusiast</strong>.</h1>
                             <p></p>
                         </header>
                         <p>I am currently in the process of redeveloping my website from scratch. Check back later for updates!</p>
