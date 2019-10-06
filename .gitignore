@@ -12,3 +12,7 @@ yarn.lock
 # Personal Files
 /src/assets/images/old-assets
 /src/assets/images/my-pictures
+
+# Random project files
+/project
+/target
