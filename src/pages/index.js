@@ -22,7 +22,7 @@ class HomeIndex extends React.Component {
                             <h1>Hi, my name is Hamza. I'm an <strong>entrepreneur</strong>, <strong>coder</strong>, and <strong>fitness enthusiast</strong>.</h1>
                             <p></p>
                         </header>
-                        <p>I am currently in the process of developing my website from scratch. Check back later for updates.</p>
+                        <p>I am currently in the process of developing my website from scratch with Gatsby. The source code is uploaded on my Github.</p>
                         <p>In the meantime, stay connected with me on social media...</p>
                     </section>
 

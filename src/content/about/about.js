@@ -74,7 +74,7 @@ class About extends React.Component {
                     From the entrepreneurial spirit that I acquired from being in YouthAppLab, 
                     I started my own entrepreneurial endeavors. I started two different big ventures, 
                     a software development and branding company and then a clothing line.
-                    <br /><br />
+                    <br />
                     <h5>Snikwah</h5>
                     I started a company where I originally created computer games. Then, I moved on 
                     to mobile apps, games, websites, graphics, logos, business consultations, and just 
@@ -91,6 +91,7 @@ class About extends React.Component {
                     is something everyone should be striving for and in particular as a black man, this 
                     is something that I feel other black men should also strive for. This is also something 
                     that black women should demand from us, better black men.
+                    <br />
                 </p>
 
                 <a href="https://www.microsoft.com"><h4>Microsoft</h4></a>

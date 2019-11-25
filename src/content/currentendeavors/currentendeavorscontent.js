@@ -5,6 +5,8 @@ class CurrentEndeavorsContent extends React.Component {
         return (
             <div>
                 <h2 id="ComingSoon">(Coming Soon)</h2>
+
+                For now, check my LinkedIn or social media for updates!
             </div>
         )
     }
