@@ -32,4 +32,4 @@ class MyStory extends React.Component {
     }
 }
 
-export default MyStory
+export default MyBackground

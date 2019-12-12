@@ -22,8 +22,8 @@ class HomeIndex extends React.Component {
                             <h1>Hi, my name is Hamza. I'm an <strong>entrepreneur</strong>, <strong>coder</strong>, and <strong>fitness enthusiast</strong>.</h1>
                             <p></p>
                         </header>
-                        <p>I am currently in the process of developing my website from scratch with Gatsby. The source code is uploaded on my Github.</p>
-                        <p>In the meantime, stay connected with me on social media...</p>
+                        <p>I have developed my website from scratch with Gatsby. The source code is uploaded on my Github.</p>
+                        <p>On here is my story and some useful links that can help you in your journey for greatness. Stay connected with me on social media...</p>
                     </section>
 
                 </div>
