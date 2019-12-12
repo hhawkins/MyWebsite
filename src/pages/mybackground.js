@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 
 import MyBackgroundContent from '../content/mybackground/mybackgroundcontent'
 
-class MyStory extends React.Component {
+class MyBackground extends React.Component {
     render() {
         const siteTitle = "My Background"
         const siteDescription = "My Work Background and Experience"
@@ -32,4 +32,4 @@ class MyStory extends React.Component {
     }
 }
 
-export default MyBackground
+//export default MyBackground

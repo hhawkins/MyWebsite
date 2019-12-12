@@ -32,4 +32,4 @@ class MyBlog extends React.Component {
     }
 }
 
-export default MyBlog
+//export default MyBlog

@@ -33,4 +33,4 @@ class MyCurrentEndeavors extends React.Component {
     }
 }
 
-export default MyCurrentEndeavors
+//export default MyCurrentEndeavors
