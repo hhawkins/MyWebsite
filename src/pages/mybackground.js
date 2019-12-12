@@ -32,4 +32,4 @@ class MyBackground extends React.Component {
     }
 }
 
-//export default MyBackground
+export default MyBackground
